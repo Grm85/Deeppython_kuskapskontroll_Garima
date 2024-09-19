@@ -49,9 +49,13 @@ Project Dependencies
 ### Packages used in the project:
 
 pandas
+
 pyodbc
+
 sqlalchemy
+
 unittest
+
 logging
 
 
