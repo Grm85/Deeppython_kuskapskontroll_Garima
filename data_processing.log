@@ -1,0 +1,68 @@
+2024-09-17 15:15:33,103 - INFO - CSV file loaded successfully.
+2024-09-17 15:41:57,173 - INFO - CSV file loaded successfully.
+2024-09-17 15:42:05,837 - INFO - Connected to SQL Server successfully.
+2024-09-17 15:42:05,885 - ERROR - Error: Failed to fetch data from SQL: Execution failed on sql 'SELECT * FROM Diwali_data': ('42S02', "[42S02] [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'Diwali_data'. (208) (SQLExecDirectW)")
+2024-09-17 15:43:37,612 - INFO - CSV file loaded successfully.
+2024-09-17 15:43:45,758 - INFO - Connected to SQL Server successfully.
+2024-09-17 15:43:46,074 - INFO - Data fetched from Diwali successfully.
+2024-09-17 15:43:46,137 - INFO - Data cleaning and transformation completed successfully.
+2024-09-17 15:43:46,225 - ERROR - Error: Failed to save data to SQL Server: (pyodbc.InterfaceError) ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'LAPTOP-U3795DN8\\LENOVO'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'LAPTOP-U3795DN8\\LENOVO'. (18456)")
+(Background on this error at: https://sqlalche.me/e/20/rvf5)
+2024-09-17 15:45:27,379 - INFO - CSV file loaded successfully.
+2024-09-17 15:45:35,542 - INFO - Connected to SQL Server successfully.
+2024-09-17 15:45:35,798 - INFO - Data fetched from Diwali successfully.
+2024-09-17 15:45:35,835 - INFO - Data cleaning and transformation completed successfully.
+2024-09-17 15:45:35,862 - ERROR - Error: Failed to save data to SQL Server: (pyodbc.InterfaceError) ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'LAPTOP-U3795DN8\\LENOVO'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'LAPTOP-U3795DN8\\LENOVO'. (18456)")
+(Background on this error at: https://sqlalche.me/e/20/rvf5)
+2024-09-17 16:10:43,017 - ERROR - No such comm target registered: jupyter.widget.control
+2024-09-17 16:10:43,030 - WARNING - No such comm: 443885e2-c1b9-4cd1-a0c6-755d0450e95a
+2024-09-17 16:11:05,734 - ERROR - Error: Failed to load CSV: [Errno 2] No such file or directory: 'C:\\Users\\LENOVO\\OneDrive\\Desktop\\deeppython\\Python_Diwali_Sales_Analysis-main\\Diwali.csv'
+2024-09-17 16:12:40,835 - INFO - CSV file loaded successfully.
+2024-09-17 16:12:49,254 - INFO - Connected to SQL Server successfully.
+2024-09-17 16:12:49,524 - INFO - Data fetched from Diwali successfully.
+2024-09-17 16:12:49,593 - INFO - Data cleaning and transformation completed successfully.
+2024-09-17 16:12:49,654 - ERROR - Error: Failed to save data to SQL Server: (pyodbc.InterfaceError) ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'LAPTOP-U3795DN8\\LENOVO'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'LAPTOP-U3795DN8\\LENOVO'. (18456)")
+(Background on this error at: https://sqlalche.me/e/20/rvf5)
+2024-09-17 16:23:26,158 - ERROR - No such comm target registered: jupyter.widget.control
+2024-09-17 16:23:26,163 - WARNING - No such comm: 7c9d7a81-14ff-4561-be44-09bd5f556bb3
+2024-09-17 16:23:51,589 - INFO - CSV file loaded successfully.
+2024-09-17 16:23:59,917 - INFO - Connected to SQL Server successfully.
+2024-09-17 16:24:00,153 - INFO - Data fetched from Diwali successfully.
+2024-09-17 16:24:00,224 - INFO - Data cleaning and transformation completed successfully.
+2024-09-17 16:24:00,268 - ERROR - Error: Failed to save data to SQL Server: (pyodbc.InterfaceError) ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'LAPTOP-U3795DN8\\LENOVO'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'LAPTOP-U3795DN8\\LENOVO'. (18456)")
+(Background on this error at: https://sqlalche.me/e/20/rvf5)
+2024-09-17 20:27:38,841 - ERROR - No such comm target registered: jupyter.widget.control
+2024-09-17 20:27:38,854 - WARNING - No such comm: 45d4b24f-514a-497c-a582-20d8040776ab
+2024-09-17 21:14:30,084 - INFO - CSV file loaded successfully.
+2024-09-17 21:14:38,524 - INFO - Connected to SQL Server successfully.
+2024-09-17 21:14:38,802 - INFO - Data fetched from Diwali successfully.
+2024-09-17 21:14:38,866 - INFO - Data cleaning and transformation completed successfully.
+2024-09-17 21:14:38,949 - ERROR - Error: Failed to save data to SQL Server: (pyodbc.InterfaceError) ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'LAPTOP-U3795DN8\\LENOVO'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'LAPTOP-U3795DN8\\LENOVO'. (18456)")
+(Background on this error at: https://sqlalche.me/e/20/rvf5)
+2024-09-18 09:40:15,409 - INFO - CSV file loaded successfully.
+2024-09-18 09:40:21,867 - INFO - Connected to SQL Server successfully.
+2024-09-18 09:40:22,149 - INFO - Data fetched from Diwali successfully.
+2024-09-18 09:40:22,191 - INFO - Data cleaning and transformation completed successfully.
+2024-09-18 09:40:22,280 - ERROR - Error: Failed to save data to SQL Server: (pyodbc.InterfaceError) ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'LAPTOP-U3795DN8\\LENOVO'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'LAPTOP-U3795DN8\\LENOVO'. (18456)")
+(Background on this error at: https://sqlalche.me/e/14/rvf5)
+2024-09-18 09:52:17,830 - INFO - CSV file loaded successfully.
+2024-09-18 09:56:51,772 - INFO - CSV file loaded successfully.
+2024-09-18 09:56:52,197 - INFO - Data fetched from Diwali successfully.
+2024-09-18 09:56:52,248 - INFO - Data cleaning and transformation completed successfully.
+2024-09-18 09:56:56,887 - ERROR - Error: Failed to save data to SQL Server: Could not reflect: requested table(s) not available in Engine(mssql+pyodbc:///?odbc_connect=Driver%3D%7BODBC+Driver+17+for+SQL+Server%7D%3BServer%3DLAPTOP-U3795DN8%3BDatabase%3Dmydatabase%3BTrusted_Connection%3Dyes%3B): (Diwali)
+2024-09-18 09:59:50,079 - INFO - CSV file loaded successfully.
+2024-09-18 09:59:50,454 - INFO - Data fetched from dbo.Diwali successfully.
+2024-09-18 09:59:50,502 - INFO - Data cleaning and transformation completed successfully.
+2024-09-18 10:00:03,868 - INFO - Data saved back to dbo.Diwali successfully.
+2024-09-18 10:00:03,869 - INFO - Database connection closed.
+2024-09-18 11:07:56,656 - ERROR - No such comm target registered: jupyter.widget.control
+2024-09-18 11:07:56,672 - WARNING - No such comm: ad31b47b-ea6c-4fa9-8806-83ee6e3d464b
+2024-09-18 11:09:26,893 - INFO - CSV file loaded successfully.
+2024-09-18 11:09:27,474 - INFO - Data fetched from dbo.Diwali successfully.
+2024-09-18 11:09:27,514 - INFO - Data cleaning and transformation completed successfully.
+2024-09-18 11:09:50,340 - INFO - Data saved back to dbo.Diwali successfully.
+2024-09-18 11:09:50,344 - INFO - Database connection closed.
+2024-09-18 14:16:38,359 - ERROR - No such comm target registered: jupyter.widget.control
+2024-09-18 14:16:38,372 - WARNING - No such comm: f443b5f0-98c9-4ee1-b534-6156fbcb4f3f
+2024-09-18 14:44:46,035 - ERROR - No such comm target registered: jupyter.widget.control
+2024-09-18 14:44:46,044 - WARNING - No such comm: 7d17effd-8d3b-48c9-be36-0e20b69406e6
