@@ -1,0 +1,10 @@
+1. Utmaningar du haft under arbetet samt hur du hanterat dem.
+
+Svar. Jag vet inte varför men jag stötte på fel i processen att ansluta till sql-databasen.
+
+2. Vilket betyg du anser att du skall ha och varför.
+
+Svar. enligt din åsikt.
+
+3. Något du vill lyfta fram till Linus och Antonio?
+Svar. inga.
